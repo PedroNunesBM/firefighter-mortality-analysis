@@ -1,14 +1,14 @@
 
-# 🚒 Firefighter Mortality Analysis
+ 🚒 Firefighter Mortality Analysis
 
 Exploratory Data Analysis (EDA) of firefighter mortality patterns using Python.
 
-## 📊 Project Overview
+ 📊 Project Overview
 
 This project explores patterns in firefighter mortality data to identify trends, causes, and risk factors.  
 The analysis focuses on understanding how different variables may influence firefighter deaths.
 
-## 🧰 Technologies Used
+ 🧰 Technologies Used
 
 - Python
 - Pandas
@@ -17,7 +17,7 @@ The analysis focuses on understanding how different variables may influence fire
 - Seaborn
 - Jupyter Notebook
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 project/
 │
@@ -26,18 +26,27 @@ project/
 ├── images/      # generated charts
 └── README.md
 
-## 📈 Analysis Performed
+ 📈 Analysis Performed
 
 - Data cleaning
 - Exploratory Data Analysis (EDA)
 - Visualization of mortality patterns
 - Identification of trends
 
-## 📷 Example Visualizations
+ 📷 Example Visualizations
 
-Examples of charts generated during the analysis.
+Below are some key insights from the analysis:
 
-## 🚀 How to Run the Project
+ Mortality by Rank
+![Mortality by Rank](images/plot_deaths_by_rank.png)
+
+ Age Distribution
+![Age Category](images/plot_age_category.png)
+
+ Cause of Death Nature
+![Cause Nature](images/plot_cause_nature.png)
+
+ 🚀 How to Run the Project
 
 1. Clone the repository
 
